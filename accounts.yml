@@ -1,6 +1,11 @@
 build:
   version: "3.0"
 
+info:
+  app:
+    name: "accounts"
+    description: "Mini Bank Accounts Application"
+    version: "1.0.0"
 accounts:
   message: "Welcome to MiniBank accounts related local-Test APIs "
   contactDetails:
