@@ -1,6 +1,19 @@
 build:
   version: "3.0"
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    shutdown:
+      enabled: true
+    prometheus:
+      enabled: true
+  info:
+    env:
+      enabled: true
 info:
   app:
     name: "accounts"
