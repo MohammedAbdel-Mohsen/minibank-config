@@ -2,11 +2,12 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to minibank loans related Loans Production APIs Test Bus Refresh"
+  message: "Welcome to minibank loans related Loans Production APIs"
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@minibank.com"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
+
 
